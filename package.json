@@ -1,0 +1,31 @@
+{
+  "name": "threejs-vue3",
+  "version": "1.0.0",
+  "description": "你是一名资深前端图形工程师，请帮我构建一个基于 Vue 3 + Three.js 的中等复杂度 3D 可视化 Demo 项目。",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanhaibo-xin/threejs-vue3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanhaibo-xin/threejs-vue3/issues"
+  },
+  "homepage": "https://github.com/hanhaibo-xin/threejs-vue3#readme",
+  "dependencies": {
+    "@types/three": "^0.183.1",
+    "@vitejs/plugin-vue": "^6.0.5",
+    "@vueuse/core": "^14.2.1",
+    "three": "^0.183.2",
+    "vite": "^8.0.1",
+    "vue": "^3.5.30"
+  }
+}
